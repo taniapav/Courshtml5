@@ -1,0 +1,20 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 50px;
+}
+table{
+  border-collapse: collapse;
+}
+thead, tfoot{
+  background-color: green;
+  text-transform: uppercase;
+  color: #FFF;
+}
+td, th{
+  border: 1px solid black;
+  padding: 10px;
+}
+th{
+background-color: red;
+font-weight: normal;
+}
